@@ -71,18 +71,7 @@ if __name__ == "__main__":
     youtube_urls = [
         "https://www.youtube.com/watch?v=2b1IqO4o1pE&ab_channel=JoelPWest-Topic",
         "https://www.youtube.com/watch?v=_-OCLUOHfn0&ab_channel=88rising",
-        "https://www.youtube.com/watch?v=qxmWmlyTmvo&ab_channel=JoelPWest-Topic",
-        "https://www.youtube.com/watch?v=DOxqAHKMcRc&ab_channel=Release-Topic",
-        "https://www.youtube.com/watch?v=9xkMyCQ7CqQ&ab_channel=JoelPWest-Topic",
-        "https://www.youtube.com/watch?v=3pZfOHl5F-Y&ab_channel=Anderson.Paak-Topic",
-        "https://www.youtube.com/watch?v=2LJjtyNnOWc&ab_channel=SwaeLee",
-        "https://www.youtube.com/watch?v=bq7n7rgVyqY&ab_channel=88rising",
-        "https://www.youtube.com/watch?v=9jdReDQre38&ab_channel=keshi",
-        "https://www.youtube.com/watch?v=zhKJEmPo0pc&ab_channel=JoelPWest-Topic",
-        "https://www.youtube.com/watch?v=OANynKu9-KI&ab_channel=JoelPWest-Topic",
-        "https://www.youtube.com/watch?v=1vorbfPNW_g&ab_channel=OriginalSoundtrack",
-        "https://youtu.be/Vl_yoWSXv8Y?si=yEE3g_iAUm3YEV_x",
-        "https://www.youtube.com/watch?v=x-EK-5USFTo&ab_channel=OriginalSoundtrack"
+        "https://www.youtube.com/watch?v=qxmWmlyTmvo&ab_channel=JoelPWest-Topic"
     ]   
     
     # Download all videos in the list as MP3
